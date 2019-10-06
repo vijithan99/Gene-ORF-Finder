@@ -1,5 +1,0 @@
-f1 = open("kdpf.txt", "r")
-print(f1.readline())
-seq = f1.read()
-seq = seq.upper()
-seq = seq.replace('\n', '')
